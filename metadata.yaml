@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9349'
     url: http://www.gutenberg.org/2009/agents/9349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20500#A-Short-History-of-Greek-Philosophy
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2007-02-01'
 gutenberg_type: Text
